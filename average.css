@@ -30,7 +30,7 @@ header a { text-decoration: none; }
 header a:link { color: #231814; }
 header a:visited { color: #231814; }
 header a:hover { color: #FEF6C2; }
-logo {
+.logo {
 position: absolute;
 background-image: url(logo_pizza_WEBSITE.png);
 background-repeat: no-repeat;
