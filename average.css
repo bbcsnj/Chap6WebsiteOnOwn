@@ -18,11 +18,9 @@ max-width: 1280px;
 box-shadow: 3px 3px 3px #676767;
 padding: 0;
 }   
-header { 
-background-color: darkgreen; 
-background-image: url(logo_pizza_WEBSITE.png);
-background-repeat: no-repeat;
-background-size: contain;	
+header {
+position: relative;
+background-color: darkgreen; 	
 color: #231814; 
 padding-left: 240px;
 padding-top: 5px;
@@ -32,6 +30,12 @@ header a { text-decoration: none; }
 header a:link { color: #231814; }
 header a:visited { color: #231814; }
 header a:hover { color: #FEF6C2; }
+logo {
+position: absolute;
+background-image: url(logo_pizza_WEBSITE.png);
+background-repeat: no-repeat;
+background-size: contain;
+}
 h1 { font-size: 3em; 
 color: white;
 text-shadow: 3px 5px black;}
