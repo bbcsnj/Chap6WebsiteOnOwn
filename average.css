@@ -34,6 +34,8 @@ header a:hover { color: #FEF6C2; }
 background-image: url(logo_pizza_WEBSITE.png);
 background-repeat: no-repeat;
 background-size: contain;
+width: 200px;
+background-color: white;
 }
 h1 { font-size: 3em; 
 color: white;
