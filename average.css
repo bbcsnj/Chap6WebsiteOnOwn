@@ -25,7 +25,7 @@ color: #231814;
 padding-left: 240px;
 padding-top: 5px;
 padding-bottom: 5px;
-width: 80%;
+width: auto;
 }
 header a { text-decoration: none; }
 header a:link { color: #231814; }
